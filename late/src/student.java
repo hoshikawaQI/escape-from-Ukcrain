@@ -19,5 +19,8 @@ public class student {
     public void standInTheCorridor(){
         System.out.println("被罚站了");
     }
+    public void sleep(){
+        System.out.println("午睡");
+    }
 
 }
